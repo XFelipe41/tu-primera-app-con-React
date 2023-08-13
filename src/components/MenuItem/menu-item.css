@@ -1,0 +1,14 @@
+.menu-item {
+  padding: 10px;
+}
+
+.menu-item a {
+  color: var red;
+  font-weight: 600;
+  font-size: 18px;
+  transition: all .1s ease-in;
+}
+
+.menu-item a:hover {
+  color: red;
+}
